@@ -1,0 +1,1 @@
+def story(**names)
